@@ -1,6 +1,6 @@
 const repeatString = function(string, num) {
   let count=0;
-  let repeatedString="",
+  let repeatedString="";
     while (count < num) {
       repeatedString += string;
       count++;
